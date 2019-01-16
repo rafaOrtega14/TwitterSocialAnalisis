@@ -8,10 +8,10 @@ import os
 import pandas as pd
 
 #Credenciales para utilizar la API de Twitter
-consumer_key = '5pfiXUUZ7Z1WzxxyfMOhld8Sd'
-consumer_secret = 'wBfedbnuhjiGsimBYcthXgoyoPsKbLfvDSMIQWGSrFJoR68d2j'
-access_token = '299670779-UR9EZwULsJAYLWPVCQi7VJrrox6W8HF2qvBtXrnx'
-access_token_secret = 'oJvLc47rGUBtwu3NW1xmfagOmeUaxlVJbvYDl4ONDfqJY'
+consumer_key = 'XXXXXXXXXXXXXXXX'
+consumer_secret = 'XXXXXXXXXXXXXXXX'
+access_token = 'XXXXXXXXXXXXXXXX'
+access_token_secret = 'XXXXXXXXXXXXXXXX'
 
 #Credenciales para utilizar la API de Google
 os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "/Users/rafaelortega/downloads/credenciales.json"
