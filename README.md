@@ -8,3 +8,6 @@
 ## Trend-setters.py
 #### Store on a mongoDB database users who are talking positively, negatively or neutrally about a topic
 ![alt text](https://github.com/rafaOrtega14/TwitterSocialAnalisis/blob/master/trend-setters.png)
+## Hashtag-classifier.py
+#### Store on a mongoDB a sentiment clasification of Hashtags with more repercussion 
+![alt text](https://github.com/rafaOrtega14/TwitterSocialAnalisis/blob/master/hashtag-classifier.png)
