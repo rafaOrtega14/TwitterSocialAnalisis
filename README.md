@@ -5,3 +5,6 @@
 ![alt text](https://github.com/rafaOrtega14/TwitterSocialAnalisis/blob/master/sentiment-analisis.png)
 ## Sentiment-day-Percentage.py
 #### Term sentiment satisfaction percentage on the last 24 hours
+## Trend-setters.py
+#### Store on a mongoDB database users who are talking positively, negatively or neutrally about a topic
+![alt text](https://github.com/rafaOrtega14/TwitterSocialAnalisis/blob/master/sentiment-analisis.png)
