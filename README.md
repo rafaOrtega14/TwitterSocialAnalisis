@@ -11,3 +11,7 @@
 ## Hashtag-classifier.py
 #### Store on a mongoDB a sentiment clasification of Hashtags with more repercussion 
 ![alt text](https://github.com/rafaOrtega14/TwitterSocialAnalisis/blob/master/hashtag-classifier.png)
+## data-collection.py
+#### Collects the main dataset used to feed trend-setters.py and hashtag-classifier.py
+## data-collection-hashtags.py 
+#### Collects hashtags dataset used to feed hashtag-classifier.py
